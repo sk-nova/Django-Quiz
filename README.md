@@ -1,1 +1,1 @@
-# School / College Management Software App
+# School / College Management Software
