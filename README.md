@@ -1,2 +1,1 @@
-# Django-Quiz
-Quiz Application built on Django framework
+# School / College Management Software App
